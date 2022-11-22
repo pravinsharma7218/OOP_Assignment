@@ -1,2 +1,2 @@
 # OOP_Assignment
-Demonstarte functional overloading
+Demonstrate functional overloading
